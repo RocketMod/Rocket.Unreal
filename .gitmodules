@@ -1,0 +1,6 @@
+[submodule "Rocket.Unreal/coreclr"]
+	path = Rocket.Unreal/coreclr
+	url = https://github.com/RocketMod/coreclr
+[submodule "coreclr"]
+	path = coreclr
+	url = https://github.com/dotnet/coreclr/
