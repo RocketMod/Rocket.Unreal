@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rocket.Unreal.cpp">
+    <ClCompile Include="Rocket.UnrealEngine.Host.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
