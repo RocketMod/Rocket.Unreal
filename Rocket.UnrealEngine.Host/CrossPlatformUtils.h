@@ -3,7 +3,7 @@
 
 #if defined(__unix__)
 #define WCHAR char
-#define MAX_PATH SIZE
+#define MAX_PATH PATH_MAX
 #endif
 
 void* GetCoreCLRFunction(const char* functionName); 
