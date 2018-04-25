@@ -4,6 +4,7 @@
 #if defined(__unix__)
 #define WCHAR char
 #define MAX_PATH PATH_MAX
+#define DWORD unsigned long
 #endif
 
 void* GetCoreCLRFunction(const char* functionName); 
